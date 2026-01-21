@@ -1,0 +1,23 @@
+# Virtual Environments (your project specific)
+Backend/portal_env/
+student_portal/portal_env/
+
+# Generic venv names
+env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
